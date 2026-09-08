@@ -4,7 +4,7 @@ Where should a global supermarket spend next year's marketing budget? An analysi
 
 ## Problem
 
-2Market's marketing team had no clear view of which channels drove conversions or how different customer segments responded to them. Budget allocation was effectively being made blind. A 5 Whys analysis traced the surface problem — uncertainty over budget allocation — to a root cause: no linkage existed between customer demographics, channel performance, and purchasing behaviour.
+2Market's marketing team had no clear view of which channels drove conversions or how different customer segments responded to them. Budget allocation was effectively being made blind. A 5 Whys analysis traced the surface problem (uncertainty over budget allocation) to a root cause: no linkage existed between customer demographics, channel performance, and purchasing behaviour.
 
 The study set out to answer three questions:
 
@@ -28,17 +28,17 @@ Three implausible age records (birth years 1894, 1900, 1901) and one income outl
 
 ## Findings
 
-**Spain dominates by volume, not by value.** Spain holds 48.6% of customers and generates 48.4% of sales — the sales concentration is purely a headcount effect, not a spending one. This mattered enough to change the analysis: sales by country were renormalised to average spend per customer, at which point Canada, then the US, Germany, and South Africa lead. Montenegro was excluded from that comparison — three customers is not a sample.
+**Spain dominates by volume, not by value.** Spain holds 48.6% of customers and generates 48.4% of sales; the sales concentration is purely a headcount effect, not a spending one. This mattered enough to change the analysis: sales by country were renormalised to average spend per customer, at which point Canada, then the US, Germany, and South Africa lead. Montenegro was excluded from that comparison (three customers is too small a sample).
 
-**Channel differences are smaller than expected.** Twitter, Instagram, and bulk email each account for roughly 25% of conversions, Facebook just over 20%. The only genuinely distinct result is brochures at around 5%.
+**Channel differences are smaller than expected.** Twitter, Instagram, and bulk email each account for roughly 25% of conversions, Facebook just over 20%. The only  distinct result is brochures at around 5%.
 
-**Household composition beats income as a spend signal.** Widowed customers show the highest average spend, then divorced, then partnerships — the reverse of the raw totals, which are driven by partnership customers simply being the largest group. Alcohol leads every country and every marital group, followed by meat.
+**Household composition beats income as a spend signal.** Widowed customers show the highest average spend, then divorced, then partnerships. This is the reverse of the raw totals, which are driven by partnership customers simply being the largest group. Alcohol leads every country and every marital group, followed by meat.
 
 **Conversion peaks around age 50** and correlates positively with total spend. Canada and Germany show the highest average conversion rates, particularly through Twitter and email.
 
 ## Recommendations
 
-Reallocate budget away from India and Australia toward Canada and Germany, where average per-customer sales and conversion rates are strongest — this also reduces the concentration risk of drawing half of revenue from one market. Discontinue brochure advertising and redirect that spend to digital. Expand email campaigns in Canada specifically. Promote outside the alcohol and meat categories to broaden the revenue base.
+Reallocate budget away from India and Australia toward Canada and Germany, where average per-customer sales and conversion rates are strongest. This also reduces the concentration risk of drawing half of revenue from one market. Discontinue brochure advertising and redirect that spend to digital. Expand email campaigns in Canada specifically. Promote outside the alcohol and meat categories to broaden the revenue base.
 
 ## Limitations
 
@@ -58,4 +58,4 @@ PostgreSQL · pgAdmin · Tableau · Excel
 
 ---
 
-*Completed as part of the LSE Data Analytics Career Accelerator, 2026.*
+*Completed as part of the LSE Data Analytics Career Accelerator, 2026. Final grade: 82.5%.*
